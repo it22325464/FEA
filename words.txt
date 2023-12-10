@@ -1,0 +1,8 @@
+figma.com  - design
+freepik.com - free photos
+remove.bg - remove background
+fontawesome.com - icons
+
+
+<i>: The Idiomatic Text element
+<b>: The Bring Attention To element.
